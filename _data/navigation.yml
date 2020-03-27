@@ -2,3 +2,10 @@
   url: /
 - title: Material
   url: /material
+  sublinks:
+    - title: Videos
+      url: /videos
+    - title: Teoría
+      url: /teoría
+    - title: Resueltos
+      url: /resueltos
