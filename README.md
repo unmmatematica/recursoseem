@@ -1,4 +1,4 @@
-# Sitio de Matemática 1 (1013) EyA - UNM
+# Sitio de Recursos EEM - UNM
 
 Este sitio está construido utilizando [Jekyll](https://jekyllrb.com/), un pequeño motor que compila el sitio antes de publicarlo y nos permite "programar" algunas pequeñas cosas: usar variables, foreach, templates, vistas parciales, etc.
 
