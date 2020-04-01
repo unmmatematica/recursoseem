@@ -23,3 +23,7 @@ $$ F(x) =\int _{-\infty} ^{x} \frac {1} {\sqrt {2 \pi} \sigma} \mathrm {e}^ \fra
 ## Inscrutando applets de GeoGebra
 
 <iframe scrolling="no" title="" src="https://www.geogebra.org/material/iframe/id/eKDwuGkN/width/1028/height/717/border/888888/sfsb/true/smb/false/stb/false/stbh/false/ai/false/asb/false/sri/false/rc/false/ld/false/sdz/false/ctl/false" width="1028px" height="717px" style="border:0px;"> </iframe>
+
+### Otro applet
+
+<iframe scrolling="no" title="puntosmediosdecuadrados" src="https://www.geogebra.org/material/iframe/id/HdVyHuQu/width/360/height/511/border/888888/sfsb/true/smb/false/stb/false/stbh/false/ai/false/asb/false/sri/false/rc/false/ld/false/sdz/false/ctl/false" width="360px" height="511px" style="border:0px;"> </iframe>
