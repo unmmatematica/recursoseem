@@ -6,9 +6,12 @@
 
 * [Video función lineal otro](https://www.youtube.com/watch?v=AoZpzAoC1Qg) (de youtube)
 
-Y lo mismo pero probando embeberlo:
+* Y lo mismo pero probando embeberlo:
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/AoZpzAoC1Qg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+* [Video función lineal](assets/cursada/lineal_v1.0.mkv) (se baja el archivo, que está hosteado por el repo)
+
 
 ## Y se puede escribir en LaTeX
 
