@@ -1,4 +1,4 @@
-<script src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML" type="text/javascript"></script>
+
 
 # Material
 
@@ -10,7 +10,7 @@ Y lo mismo pero probando embeberlo:
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/AoZpzAoC1Qg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-## Y se puede escribir el LaTeX
+## Y se puede escribir en LaTeX
 
 $$\sum_{i=0}^n i^2 = \frac{n(n+1)(2n+1)}{6}$$
 
