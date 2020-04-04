@@ -13,4 +13,4 @@ Si es la primera vez que entrás acá, probablemente quieras ir a la sección [m
 
 Vamos a utilizar esta página para subir material. Tal vez sea una buena idea agregarla a los favoritos de tu navegador. :link::globe_with_meridians:
 
-Para avisos de último momento, novedades y consultas vamos a utilizar [Telegram](https://). Es importante que lo revises regularmente para no perderte nada.
+Para avisos de último momento, novedades, consultas e intercambio más dinámico vamos a utilizar [Telegram](https://t.me/joinchat/Esdo1lTxwENJu_4drJwgWQ). Haciendo click te unís al canal.
