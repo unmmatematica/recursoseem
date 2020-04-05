@@ -2,11 +2,11 @@
 layout: landing
 ---
 
-¡Bienvenido/a estimade docente!
+¡Bienvenidx estimadx docente!
 
 En esta página vas a encontrar material para usar de forma virtual... virtualmente _casi_ cualquier cosa.
 
-Si es la primera vez que entrás acá, probablemente quieras ir a la sección [material](/material) para chuemear que hay disponible.
+Si es la primera vez que entrás acá, probablemente quieras ir a la sección [material](/material) para chusmear qué hay disponible.
 
 
 ## Canales de comunicación
